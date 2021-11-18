@@ -15,6 +15,7 @@ def init(title, body_html, vendor, tags, sku, price, weight, images):
             "tags": tags,
             "variants": [{"price": price, "weight": weight, "sku": sku}],
             "images": images,
+            "template_suffix": "barfridgesaustralia",
         }
     }
 
@@ -27,40 +28,17 @@ def init(title, body_html, vendor, tags, sku, price, weight, images):
     return r.json()["product"]
 
 
-def add_dimension(product, key, value):
+def add_metadata(product, namespace, key, value, value_type):
     id = product["id"]
     payload = {
         "product": {
             "id": id,
             "metafields": [
                 {
-                    "namespace": "shipping",
+                    "namespace": namespace,
                     "key": key,
-                    "value": '{"value":' + str(value) + ',"unit":"mm"}',
-                    "value_type": "json_string",
-                }
-            ],
-        }
-    }
-
-    r = requests.put(
-        url=f"{ROOT}/products/{id}.json",
-        json=payload,
-        headers={"Content-Type": "application/json"},
-    )
-
-
-def add_url(product, url):
-    id = product["id"]
-    payload = {
-        "product": {
-            "id": id,
-            "metafields": [
-                {
-                    "namespace": "shipping",
-                    "key": "url",
-                    "value": url,
-                    "value_type": "string",
+                    "value": value,
+                    "value_type": value_type,
                 }
             ],
         }
@@ -122,8 +100,16 @@ def add_quantity(product, available):
         json=payload,
     )
 
+def add_product_variants(product, options):
+    for o in options:
+        title = o.option_name
+        options = []
+        for k, v in o.variants:
+            options.append(v.variant_name)
+        print(title)
+        print(options)
 
-def create(p):
+def create_bfa_product(p):
     title = p["title"]
     body_html = p["body_html"]
     vendor = p["vendor"]
@@ -131,22 +117,40 @@ def create(p):
     sku = p["sku"]
     price = p["price"]
     weight = p["weight"]
-    width = p["width"]
-    depth = p["depth"]
-    height = p["height"]
-    url = p["url"]
-    available = p["available"]
     images = p["images"]
+    available = p["available"]
 
     pointer = init(title, body_html, vendor, tags, sku, price, weight, images)
 
     add_nontaxable(pointer)
     add_cost(pointer, price)
     add_quantity(pointer, available)
+
     # metafields
-    add_dimension(pointer, "width", width)
-    add_dimension(pointer, "depth", depth)
-    add_dimension(pointer, "height", height)
-    add_url(pointer, url)
+    id = p["id"]
+    url = p["url"]
+    width = p["width"]
+    depth = p["depth"]
+    height = p["height"]
+    add_metadata(pointer, "source", "product_id", id, "string")
+    add_metadata(pointer, "source", "url", url, "string")
+    add_metadata(pointer, "dimensions", "depth", depth, "integer")
+    add_metadata(pointer, "dimensions", "height", height, "integer")
+    add_metadata(pointer, "dimensions", "width", width, "integer")
+
+    # product variant
+    add_product_variants(pointer, p["options"])
 
     return pointer
+
+
+def create_cocolea_product(p):
+    title = p["title"]
+    body_html = p["body_html"]
+    vendor = p["vendor"]
+    tags = p["tags"]
+    sku = p["sku"]
+    price = p["price"]
+    weight = p["weight"]
+    images = p["images"]
+    pointer = init(title, body_html, vendor, tags, sku, price, weight, images)

@@ -1,0 +1,1156 @@
+{
+  "megamenu_sub_categories": {
+    "scratch": {
+      "variations": { "display_name": "VARIATIONS", "subsections": [] },
+      "all_products": "https://www.bar-fridges-australia.com.au/scratch-and-dent/"
+    },
+    "alfresco": {
+      "brand": {
+        "display_name": "BRAND",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/rhino",
+            "name": "Rhino"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/schmick",
+            "name": "Schmick"
+          }
+        ]
+      },
+      "dimensions": {
+        "display_name": "DIMENSIONS",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/width-0-450",
+            "name": "Width: 0mm - 450mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/width-451-850",
+            "name": "Width: 451mm - 850mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/width-851-plus",
+            "name": "Width: 851mm+"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/depth-0-550",
+            "name": "Depth: 0mm - 550mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/depth-551-800",
+            "name": "Depth: 551mm - 800mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/height-0-790",
+            "name": "Height: 0mm - 790mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/height-791-2200",
+            "name": "Height: 791mm - 2200mm"
+          }
+        ]
+      },
+      "doors": {
+        "display_name": "DOORS",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/1-door",
+            "name": "1 door"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/2-doors",
+            "name": "2 doors"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/3-doors",
+            "name": "3 doors"
+          }
+        ]
+      },
+      "price": {
+        "display_name": "PRICE",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/price-0-999",
+            "name": "$0 - $999"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/price-1000-1999",
+            "name": "$1000 - $1999"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/price-2000-plus",
+            "name": "$2000+"
+          }
+        ]
+      },
+      "suitability": {
+        "display_name": "SUITABILITY",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/indoor",
+            "name": "Indoor"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/outdoor",
+            "name": "Outdoor"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/indoor-and-outdoor",
+            "name": "Indoor & outdoor"
+          }
+        ]
+      },
+      "variations": {
+        "display_name": "VARIATIONS",
+        "subsections": [
+          {
+            "name": "Under Bench Front Venting",
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/under-bench-build-into-cabinetry/"
+          },
+          {
+            "name": "Low Energy Consumption",
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/lowest-energy-saving-you-dollars/"
+          },
+          {
+            "name": "Heated Glass (Stops Condensation)",
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/heated-glass-to-stop-condensation/"
+          },
+          {
+            "name": "LOW E Glass (Prevents Condensation)",
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/low-e-glass-prevents-condensation/"
+          },
+          {
+            "name": "Triple Glazed",
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/triple-glazed/"
+          },
+          {
+            "name": "Marine Grade Stainless 316 S/S",
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/marine-grade-stainless-316-s-s/"
+          },
+          {
+            "name": "Solid Door",
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/solid-door-to-keep-drinks-cold-in-hot-temperatures/"
+          },
+          {
+            "name": "Sliding Doors",
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/sliding-door-2-and-3-door-refrigerators/"
+          },
+          {
+            "name": "Upright Tall",
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/upright-triple-glazed/"
+          },
+          {
+            "name": "Beer & Wine",
+            "href": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/beer-and-wine/"
+          }
+        ]
+      },
+      "all_products": "https://www.bar-fridges-australia.com.au/outdoor-tropical-alfresco-glass-door-cold-beer-fridges/"
+    },
+    "commercial": {
+      "price": {
+        "display_name": "PRICE",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/price-0-999",
+            "name": "$0 - $999"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/price-1000-1999",
+            "name": "$1000 - $1999"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/price-2000-plus",
+            "name": "$2000+"
+          }
+        ]
+      },
+      "doors": {
+        "display_name": "DOORS",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/1-door",
+            "name": "1 door"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/2-doors",
+            "name": "2 doors"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/3-doors",
+            "name": "3 doors"
+          }
+        ]
+      },
+      "brand": {
+        "display_name": "BRAND",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/rhino",
+            "name": "Rhino"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/schmick",
+            "name": "Schmick"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/dellware",
+            "name": "Dellware"
+          }
+        ]
+      },
+      "dimensions": {
+        "display_name": "DIMENSIONS",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/width-0-450",
+            "name": "Width: 0mm - 450mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/width-451-850",
+            "name": "Width: 451mm - 850mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/width-851-plus",
+            "name": "Width: 851mm+"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/depth-0-550",
+            "name": "Depth: 0mm - 550mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/depth-551-800",
+            "name": "Depth: 551mm - 800mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/height-0-790",
+            "name": "Height: 0mm - 790mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/height-791-2200",
+            "name": "Height: 791mm - 2200mm"
+          }
+        ]
+      },
+      "suitability": {
+        "display_name": "SUITABILITY",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/indoor",
+            "name": "Indoor"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/outdoor",
+            "name": "Outdoor"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/indoor-and-outdoor",
+            "name": "Indoor & outdoor"
+          }
+        ]
+      },
+      "variations": {
+        "display_name": "VARIATIONS",
+        "subsections": [
+          {
+            "name": "Under Bench Front Venting",
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/under-bench-built-in-energy-efficient/"
+          },
+          {
+            "name": "LOW E Glass (Prevents Condensation)",
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/low-e-glass-prevents-condensation/"
+          },
+          {
+            "name": "Heated Glass (Stops Condensation)",
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/heated-glass-stops-condensation-on-glass/"
+          },
+          {
+            "name": "Low Energy Consumption",
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/energy-efficient-saving-money/"
+          },
+          {
+            "name": "Triple Glazed",
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/triple-glazed/"
+          },
+          {
+            "name": "Beer + Wine",
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/beer-wine/"
+          },
+          {
+            "name": "Sliding Doors",
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/sliding-two-and-three-door/"
+          },
+          {
+            "name": "Small",
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/small-mini-bench-space-savers/"
+          },
+          {
+            "name": "Upright Tall",
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/upright-1-and-2-door/"
+          },
+          {
+            "name": "Solid Door",
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/solid-door-units/"
+          },
+          {
+            "name": "Skinny Width Upright",
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/skinny-width-refrigerators/"
+          },
+          {
+            "name": "Freezers",
+            "href": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/freezers/"
+          }
+        ]
+      },
+      "all_products": "https://www.bar-fridges-australia.com.au/commercial-glass-door-bar-fridges-and-freezers/"
+    },
+    "underbench": {
+      "price": {
+        "display_name": "PRICE",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/price-0-499",
+            "name": "$0 - $499"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/price-500-1999",
+            "name": "$500 - $1999"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/price-2000-plus",
+            "name": "$2000+"
+          }
+        ]
+      },
+      "doors": {
+        "display_name": "DOORS",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/1-door",
+            "name": "1 door"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/2-doors",
+            "name": "2 doors"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/3-doors",
+            "name": "3 doors"
+          }
+        ]
+      },
+      "brand": {
+        "display_name": "BRAND",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/rhino",
+            "name": "Rhino"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/schmick",
+            "name": "Schmick"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/dellware",
+            "name": "Dellware"
+          }
+        ]
+      },
+      "dimensions": {
+        "display_name": "DIMENSIONS",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/width-0-450",
+            "name": "Width: 0mm - 450mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/width-451-850",
+            "name": "Width: 451mm - 850mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/width-851-plus",
+            "name": "Width: 851mm+"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/depth-0-550",
+            "name": "Depth: 0mm - 550mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/depth-551-800",
+            "name": "Depth: 551mm - 800mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/height-0-790",
+            "name": "Height: 0mm - 790mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/height-791-2200",
+            "name": "Height: 791mm - 2200mm"
+          }
+        ]
+      },
+      "suitability": {
+        "display_name": "SUITABILITY",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/indoor",
+            "name": "Indoor"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/outdoor",
+            "name": "Outdoor"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/indoor-and-outdoor",
+            "name": "Indoor & outdoor"
+          }
+        ]
+      },
+      "variations": {
+        "display_name": "VARIATIONS",
+        "subsections": [
+          {
+            "name": "LOW E Glass (Prevents Condensation)",
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/low-e-glass-prevents-condensation/"
+          },
+          {
+            "name": "Heated Glass (Stops Condensation)",
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/heated-glass-door/"
+          },
+          {
+            "name": "Triple Glazed",
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/heated-glass-stops-condensation/"
+          },
+          {
+            "name": "Under Bench Front Venting",
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/under-bench-front-venting/"
+          },
+          {
+            "name": "Low Energy Consumption",
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/low-energy-consumption/"
+          },
+          {
+            "name": "Wine Fridges",
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/wine-only/"
+          },
+          {
+            "name": "Beer & Wine Multi Zone",
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/beer-and-wine-2-zones/"
+          },
+          {
+            "name": "Quiet Running",
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/quiet-running/"
+          },
+          {
+            "name": "Solid Door",
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/solid-door/"
+          },
+          {
+            "name": "Sliding Doors",
+            "href": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/sliding-doors/"
+          }
+        ]
+      },
+      "all_products": "https://www.bar-fridges-australia.com.au/under-bench-built-in-integrated-glass-door-bar-fridges/"
+    },
+    "small": {
+      "price": {
+        "display_name": "PRICE",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/price-0-499",
+            "name": "$0 - $499"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/price-500-plus",
+            "name": "$500+"
+          }
+        ]
+      },
+      "doors": {
+        "display_name": "DOORS",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/1-door",
+            "name": "1 door"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/2-doors",
+            "name": "2 doors"
+          }
+        ]
+      },
+      "brand": {
+        "display_name": "BRAND",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/schmick",
+            "name": "Schmick"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/dellware",
+            "name": "Dellware"
+          }
+        ]
+      },
+      "dimensions": {
+        "display_name": "DIMENSIONS",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/width-0-450",
+            "name": "Width: 0mm - 450mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/width-451-850",
+            "name": "Width: 451mm - 850mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/width-851-plus",
+            "name": "Width: 851mm+"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/depth-0-550",
+            "name": "Depth: 0mm - 550mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/depth-551-800",
+            "name": "Depth: 551mm - 800mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/height-0-500",
+            "name": "Height: 0mm - 500mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/height-500-plus",
+            "name": "Height: 500mm+"
+          }
+        ]
+      },
+      "suitability": {
+        "display_name": "SUITABILITY",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/indoor",
+            "name": "Indoor"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/indoor-and-outdoor",
+            "name": "Indoor & outdoor"
+          }
+        ]
+      },
+      "variations": {
+        "display_name": "VARIATIONS",
+        "subsections": [
+          {
+            "name": "Silent",
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/silent/"
+          },
+          {
+            "name": "LOW E Glass (Prevents Condensation)",
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/low-e-glass-prevents-condensation/"
+          },
+          {
+            "name": "Triple Glazed",
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/triple-glazed/"
+          },
+          {
+            "name": "Quiet Running",
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/quiet-running/"
+          },
+          {
+            "name": "Motel Mini Bar Accommodation",
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/motel-mini-bar/"
+          },
+          {
+            "name": "Intergrated Cabinet",
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/intergrated-cabinet/"
+          },
+          {
+            "name": "Alfresco",
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/alfresco/"
+          },
+          {
+            "name": "Indoor",
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/indoor/"
+          },
+          {
+            "name": "Solid Door",
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/solid-door/"
+          },
+          {
+            "name": "Retro Vintage",
+            "href": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/retro-vintage/"
+          }
+        ]
+      },
+      "all_products": "https://www.bar-fridges-australia.com.au/compact-small-little-mini-bar-fridges/"
+    },
+    "upright": {
+      "price": {
+        "display_name": "PRICE",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/price-500-plus",
+            "name": "$500+"
+          }
+        ]
+      },
+      "doors": {
+        "display_name": "DOORS",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/1-door",
+            "name": "1 door"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/2-doors",
+            "name": "2 doors"
+          }
+        ]
+      },
+      "brand": {
+        "display_name": "BRAND",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/schmick",
+            "name": "Schmick"
+          }
+        ]
+      },
+      "dimensions": {
+        "display_name": "DIMENSIONS",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/width-0-450",
+            "name": "Width: 0mm - 450mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/width-451-850",
+            "name": "Width: 451mm - 850mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/width-851-plus",
+            "name": "Width: 851mm+"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/depth-0-550",
+            "name": "Depth: 0mm - 550mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/depth-551-800",
+            "name": "Depth: 551mm - 800mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/height-500-plus",
+            "name": "Height: 500mm+"
+          }
+        ]
+      },
+      "suitability": {
+        "display_name": "SUITABILITY",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/indoor",
+            "name": "Indoor"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/indoor-and-outdoor",
+            "name": "Indoor & outdoor"
+          }
+        ]
+      },
+      "variations": {
+        "display_name": "VARIATIONS",
+        "subsections": [
+          {
+            "name": "Low Energy Consumption",
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/low-energy-consumption/"
+          },
+          {
+            "name": "LOW E Glass (Prevents Condensation)",
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/low-e-glass-prevents-condensation/"
+          },
+          {
+            "name": "Beer And Wine Options",
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/beer-and-wine-options/"
+          },
+          {
+            "name": "Alfresco",
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/alfresco/"
+          },
+          {
+            "name": "Quiet",
+            "href": "https://www.bar-fridges-australia.com.au/upright-tall/quiet/"
+          }
+        ]
+      },
+      "all_products": "https://www.bar-fridges-australia.com.au/upright-tall/"
+    },
+    "branded": {
+      "price": {
+        "display_name": "PRICE",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/branded/price-0-499",
+            "name": "$0 - $499"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/branded/price-500-plus",
+            "name": "$500+"
+          }
+        ]
+      },
+      "dimensions": {
+        "display_name": "DIMENSIONS",
+        "subsections": [
+          {
+            "href": "https://www.bar-fridges-australia.com.au/branded/width-0-450",
+            "name": "Width: 0mm - 450mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/branded/width-451-850",
+            "name": "Width: 451mm - 850mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/branded/depth-0-550",
+            "name": "Depth: 0mm - 550mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/branded/height-0-500",
+            "name": "Height: 0mm - 500mm"
+          },
+          {
+            "href": "https://www.bar-fridges-australia.com.au/branded/height-500-plus",
+            "name": "Height: 500mm+"
+          }
+        ]
+      },
+      "variations": {
+        "display_name": "VARIATIONS",
+        "subsections": [
+          {
+            "name": "Best Beer Brands",
+            "href": "https://www.bar-fridges-australia.com.au/branded/best-beer-brands/"
+          },
+          {
+            "name": "Holden Licenced",
+            "href": "https://www.bar-fridges-australia.com.au/branded/holden-licenced/"
+          },
+          {
+            "name": "Weg Art Footy",
+            "href": "https://www.bar-fridges-australia.com.au/branded/weg-art-footy/"
+          },
+          {
+            "name": "Great Gift Idea's",
+            "href": "https://www.bar-fridges-australia.com.au/branded/great-gift-ideas/"
+          },
+          {
+            "name": "Fuel Pump Design",
+            "href": "https://www.bar-fridges-australia.com.au/branded/fuel-pump-design/"
+          },
+          {
+            "name": "Rugby Teams",
+            "href": "https://www.bar-fridges-australia.com.au/branded/rugby-teams/"
+          }
+        ]
+      },
+      "all_products": "https://www.bar-fridges-australia.com.au/branded/"
+    }
+  },
+  "megamenu_branding_download_links": [],
+  "megamenu_support_links": {
+    "bfa_stuff": [
+      {
+        "text": "About us",
+        "link": "https://www.bar-fridges-australia.com.au/about-us.html"
+      },
+      {
+        "text": "FAQ",
+        "link": "https://www.bar-fridges-australia.com.au/faq.html"
+      },
+      {
+        "text": "Fridge finder",
+        "link": "https://www.bar-fridges-australia.com.au/frothy-fridge-finder.html"
+      },
+      {
+        "text": "Spare parts",
+        "link": "https://www.bar-fridges-australia.com.au/spare-parts.html"
+      },
+      {
+        "text": "Gallery",
+        "link": "https://www.bar-fridges-australia.com.au/gallery.html"
+      },
+      {
+        "text": "Branding",
+        "link": "https://www.bar-fridges-australia.com.au/branding-wholesale-pimp-my-fridge.html"
+      },
+      {
+        "text": "Warranty statement",
+        "link": "/downloads/resources/bfa_information_warranty_statement.pdf"
+      },
+      {
+        "text": "Warranty claim",
+        "link": "https://www.bar-fridges-australia.com.au/making-a-warranty-claim.html"
+      },
+      {
+        "text": "Shipping & return policy",
+        "link": "https://www.bar-fridges-australia.com.au/shipping-return-exchange-policies.html"
+      },
+      {
+        "text": "Packaging Sustainability / Recycling",
+        "link": "https://www.bar-fridges-australia.com.au/packaging-and-recycling-information.html"
+      }
+    ],
+    "resources": [
+      {
+        "text": "Building in bible",
+        "link": "/downloads/resources/bfa_information_building_in_bible.pdf"
+      },
+      {
+        "text": "Condensation",
+        "link": "/downloads/resources/bfa_information_condensation.pdf"
+      },
+      {
+        "text": "Energy consumption",
+        "link": "/downloads/resources/bfa_information_energy_consumption.pdf"
+      },
+      {
+        "text": "Fridges and sunlight",
+        "link": "/downloads/resources/bfa_information_fridges_and_sunlight.pdf"
+      },
+      {
+        "text": "IP ratings",
+        "link": "/downloads/resources/bfa_information_ip_ratings.pdf"
+      },
+      {
+        "text": "Knowledgebase",
+        "link": "http://www.bar-fridges-australia.com.au/knowledgebase"
+      },
+      {
+        "text": "Mini bar fridges specifications",
+        "link": "/downloads/resources/bfa_information_mini_bar_fridge_specifications.pdf"
+      },
+      {
+        "text": "Noise levels",
+        "link": "/downloads/resources/bfa_information_noise_levels.pdf"
+      },
+      {
+        "text": "Quiet fans",
+        "link": "/downloads/resources/bfa_information_quiet_fans.pdf"
+      },
+      {
+        "text": "Stainless steel protection",
+        "link": "/downloads/resources/bfa_information_stainless_steel_protection.pdf"
+      },
+      {
+        "text": "NSW energy rebate",
+        "link": "https://www.bar-fridges-australia.com.au/nsw-energy-rebate-information.html"
+      }
+    ]
+  },
+  "checkout": {
+    "active_step": 1,
+    "shipping_billing_same": null,
+    "payment_complete": false
+  },
+  "ui": {
+    "loading": false,
+    "order_loading": false,
+    "payment_loading": false,
+    "display_mini_cart": false,
+    "display_megamenu": false,
+    "display_mobile_checkout_summary": false,
+    "display_header_search": false
+  },
+  "products_view_extended_product": {
+    "avail_since_phrase": "OUT OF STOCK",
+    "brand": "Schmick",
+    "main_category": "Glass Door Bar Fridges / Outdoor - Mini - Commercial - Alfresco Fridges / Full Range",
+    "depth": 500,
+    "height": 700,
+    "hinge": "Right Hinge (Handle Left)",
+    "list_price": 717,
+    "main_image": {
+      "url": "https://www.bar-fridges-australia.com.au/images/thumbnails/1080/1080/detailed/2/HUS-SC70-SS-_1_.jpg",
+      "alt": "Outdoor Alfresco Bar Fridge Triple Glazed Glass Door And Lock",
+      "caption": "Tropical Rated Triple Glazed Alfresco 70Litre"
+    },
+    "number_of_cans": 85,
+    "number_of_doors": 1,
+    "number_of_litres": 70,
+    "price": 717,
+    "product": "Schmick Tropical Triple Glazed Outdoor Glass Bar Fridge 70 Litre",
+    "product_code": "HUS-SC70-SS",
+    "product_id": "525",
+    "quantity": "31",
+    "suitability": "Indoor Or Outdoor",
+    "url": "https://www.bar-fridges-australia.com.au/schmick-tropical-triple-glazed-outdoor-glass-bar-fridge-70litre.html",
+    "width": 430,
+    "additional_images": [
+      {
+        "url": "https://www.bar-fridges-australia.com.au/images/thumbnails/1080/1080/detailed/2/HUS-SC70-SS-_BADGE_.jpg",
+        "alt": "Outdoor Alfresco Bar Fridge Triple Glazed Glass Door And Lock Schmick",
+        "caption": "Self Closing Lockable Door"
+      },
+      {
+        "url": "https://www.bar-fridges-australia.com.au/images/thumbnails/1080/1080/detailed/2/HUS-SC70-SS-_LOCK_.jpg",
+        "alt": "Outdoor Alfresco Bar Fridge Triple Glazed With Lock",
+        "caption": "Low E Glass Prevents Condensation"
+      },
+      {
+        "url": "https://www.bar-fridges-australia.com.au/images/thumbnails/1080/1080/detailed/6/HUS-SC70-SS-_LEDS_.jpg",
+        "alt": "Outdoor Alfresco Bar Fridge Triple Glazed Glass Wavy Wine Shelf Available",
+        "caption": "Led Strip Lights - Color Options Available"
+      },
+      {
+        "url": "https://www.bar-fridges-australia.com.au/images/thumbnails/1080/1080/detailed/6/HUS-SC70-SS-_WINE_.jpg",
+        "alt": "Outdoor Alfresco Bar Fridge Triple Glazed Glass WIne Shelf Options Available",
+        "caption": "Fits 4 x High Of Cans - Totally 85"
+      },
+      {
+        "url": "https://www.bar-fridges-australia.com.au/images/thumbnails/1080/1080/detailed/3/HUS-70-SS-1_pezp-b0.jpg",
+        "alt": "Outdoor Alfresco Bar Fridge Triple Glazed Glass Wine Shelf Available",
+        "caption": "See To Right For Wine Shelf Options"
+      },
+      {
+        "url": "https://www.bar-fridges-australia.com.au/images/thumbnails/1080/1080/detailed/6/Alfresco-Glass-Door-Mini-Bar-Fridge-70-Litre-HUS-SC70-SS.jpg",
+        "alt": "Schmick-Alfresco-Bar-Fridge-Interior",
+        "caption": "Accessible Controls - Interior Fan For Stable Temp"
+      }
+    ],
+    "product_caption": "Triple Glazed Alfresco Unit With Led Strip Lighting",
+    "warranty_options": [
+      {
+        "cur_product_id": "525",
+        "option_id": "645",
+        "product_id": "0",
+        "company_id": "3",
+        "option_type": "R",
+        "inventory": "N",
+        "regexp": "",
+        "required": "N",
+        "multiupload": "N",
+        "allowed_extensions": "",
+        "max_file_size": "0",
+        "missing_variants_handling": "M",
+        "status": "A",
+        "position": "3",
+        "value": 1517,
+        "warranty_option": "Y",
+        "option_name": "Warranty",
+        "internal_option_name": "(Products $500 > $799)",
+        "option_text": "",
+        "description": "",
+        "inner_hint": "",
+        "incorrect_message": "",
+        "comment": "",
+        "variants": {
+          "1517": {
+            "variant_id": "1517",
+            "option_id": "645",
+            "position": "1",
+            "modifier": "0.000",
+            "modifier_type": "A",
+            "weight_modifier": "0.000",
+            "weight_modifier_type": "A",
+            "variant_name": "2 Yrs Parts/Labour",
+            "image_pair": []
+          },
+          "1519": {
+            "variant_id": "1519",
+            "option_id": "645",
+            "position": "2",
+            "modifier": "139.000",
+            "modifier_type": "A",
+            "weight_modifier": "0.000",
+            "weight_modifier_type": "A",
+            "variant_name": "Add 1 Extra Yr Parts/Labour",
+            "image_pair": []
+          }
+        }
+      }
+    ],
+    "product_options": [
+      {
+        "cur_product_id": "525",
+        "option_id": "1055",
+        "product_id": "0",
+        "company_id": "3",
+        "option_type": "S",
+        "inventory": "Y",
+        "regexp": "",
+        "required": "N",
+        "multiupload": "N",
+        "allowed_extensions": "",
+        "max_file_size": "0",
+        "missing_variants_handling": "M",
+        "status": "A",
+        "position": "49",
+        "value": 2737,
+        "warranty_option": "N",
+        "option_name": "Door light colour",
+        "internal_option_name": "White / Blue / Green / Purple / Red / Yellow (SC70-SS)",
+        "option_text": "",
+        "description": "",
+        "inner_hint": "",
+        "incorrect_message": "",
+        "comment": "",
+        "variants": {
+          "2737": {
+            "variant_id": "2737",
+            "option_id": "1055",
+            "position": "0",
+            "modifier": "0.000",
+            "modifier_type": "A",
+            "weight_modifier": "0.000",
+            "weight_modifier_type": "A",
+            "variant_name": "White",
+            "image_pair": []
+          },
+          "2741": {
+            "variant_id": "2741",
+            "option_id": "1055",
+            "position": "1",
+            "modifier": "35.000",
+            "modifier_type": "A",
+            "weight_modifier": "0.000",
+            "weight_modifier_type": "A",
+            "variant_name": "Blue",
+            "image_pair": []
+          },
+          "2740": {
+            "variant_id": "2740",
+            "option_id": "1055",
+            "position": "2",
+            "modifier": "35.000",
+            "modifier_type": "A",
+            "weight_modifier": "0.000",
+            "weight_modifier_type": "A",
+            "variant_name": "Green",
+            "image_pair": []
+          },
+          "2738": {
+            "variant_id": "2738",
+            "option_id": "1055",
+            "position": "3",
+            "modifier": "35.000",
+            "modifier_type": "A",
+            "weight_modifier": "0.000",
+            "weight_modifier_type": "A",
+            "variant_name": "Purple",
+            "image_pair": []
+          },
+          "2739": {
+            "variant_id": "2739",
+            "option_id": "1055",
+            "position": "4",
+            "modifier": "35.000",
+            "modifier_type": "A",
+            "weight_modifier": "0.000",
+            "weight_modifier_type": "A",
+            "variant_name": "Red",
+            "image_pair": []
+          },
+          "2742": {
+            "variant_id": "2742",
+            "option_id": "1055",
+            "position": "5",
+            "modifier": "35.000",
+            "modifier_type": "A",
+            "weight_modifier": "0.000",
+            "weight_modifier_type": "A",
+            "variant_name": "Yellow",
+            "image_pair": []
+          }
+        }
+      },
+      {
+        "cur_product_id": "525",
+        "option_id": "1042",
+        "product_id": "0",
+        "company_id": "3",
+        "option_type": "S",
+        "inventory": "N",
+        "regexp": "",
+        "required": "N",
+        "multiupload": "N",
+        "allowed_extensions": "",
+        "max_file_size": "0",
+        "missing_variants_handling": "M",
+        "status": "A",
+        "position": "55",
+        "value": 2695,
+        "warranty_option": "N",
+        "option_name": "Add Wine Bottle Shelves",
+        "internal_option_name": "Flat / Floor / Wine",
+        "option_text": "",
+        "description": "",
+        "inner_hint": "",
+        "incorrect_message": "",
+        "comment": "",
+        "variants": {
+          "2695": {
+            "variant_id": "2695",
+            "option_id": "1042",
+            "position": "0",
+            "modifier": "0.000",
+            "modifier_type": "A",
+            "weight_modifier": "0.000",
+            "weight_modifier_type": "A",
+            "variant_name": "Just Keep Flat Shelves",
+            "image_pair": []
+          },
+          "2696": {
+            "variant_id": "2696",
+            "option_id": "1042",
+            "position": "1",
+            "modifier": "15.000",
+            "modifier_type": "A",
+            "weight_modifier": "0.000",
+            "weight_modifier_type": "A",
+            "variant_name": "Add 1 Floor Wine",
+            "image_pair": []
+          },
+          "2697": {
+            "variant_id": "2697",
+            "option_id": "1042",
+            "position": "2",
+            "modifier": "15.000",
+            "modifier_type": "A",
+            "weight_modifier": "0.000",
+            "weight_modifier_type": "A",
+            "variant_name": "Add 1 x Flat Wine",
+            "image_pair": []
+          },
+          "2698": {
+            "variant_id": "2698",
+            "option_id": "1042",
+            "position": "3",
+            "modifier": "25.000",
+            "modifier_type": "A",
+            "weight_modifier": "0.000",
+            "weight_modifier_type": "A",
+            "variant_name": "Add 2 x Flat Wine",
+            "image_pair": []
+          },
+          "2699": {
+            "variant_id": "2699",
+            "option_id": "1042",
+            "position": "4",
+            "modifier": "35.000",
+            "modifier_type": "A",
+            "weight_modifier": "0.000",
+            "weight_modifier_type": "A",
+            "variant_name": "Add 2 x Flat and 1 x Floor",
+            "image_pair": []
+          }
+        }
+      }
+    ],
+    "selected_options": { "645": 1517, "1055": 2737, "1042": 2695 },
+    "attachments": []
+  }
+}

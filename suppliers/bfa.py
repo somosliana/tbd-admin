@@ -66,12 +66,13 @@ def get_products():
     back = fetch()
     active = list(filter(lambda x: x["active"], back))
     products = []
-    for x in active[:2]:
+    for x in active[:1]:
         url = get_url(x["product_code"])
         page = requests.get(url)
         soup = BeautifulSoup(page.content, "html.parser")
         front = get_initial_state(soup)
         p = {
+            "id": x["product_id"],
             "title": x["product_name"],
             "vendor": x["brand"],
             "tags": "Bar Fridges Australia",
@@ -85,6 +86,7 @@ def get_products():
             "images": get_images(x["product_images"]),
             "body_html": get_body_html(soup),
             "available": front["quantity"],
+            "options": front["product_options"]
         }
         products.append(p)
     return products
