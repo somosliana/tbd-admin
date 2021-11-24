@@ -5,7 +5,7 @@ description = ""
 authors = ["Sobrino Julian <sobrinojulian@protonmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.10.0"
 requests = "^2.26.0"
 python-dotenv = "^0.19.1"
 ShopifyAPI = "^9.0.0"
