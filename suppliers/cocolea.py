@@ -3,8 +3,7 @@ import csv
 from dotenv import dotenv_values
 import requests
 
-SECRETS = dotenv_values(".env")
-ROOT = SECRETS["SHOPIFY_URL"]
+ROOT = dotenv_values(".env")["SHOPIFY_URL"]
 
 
 def get_products():

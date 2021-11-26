@@ -14,6 +14,6 @@ def run_cocolea():
         print(f"🔗 https://thebigdino.myshopify.com/admin/products/{p['id']}")
 
 try:
-    run_cocolea()
+    run_bfa()
 except KeyboardInterrupt:
     pass
